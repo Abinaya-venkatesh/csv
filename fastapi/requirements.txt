@@ -1,0 +1,10 @@
+bcrypt
+fastapi
+pymongo
+pydantic
+python-multipart
+requests
+redis
+uvicorn
+pyjwt
+pydantic[email]
